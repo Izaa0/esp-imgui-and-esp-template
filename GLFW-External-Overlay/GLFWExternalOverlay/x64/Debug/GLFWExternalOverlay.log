@@ -1,0 +1,13 @@
+﻿  src.cpp
+src.obj : error LNK2019: unresolved external symbol glewInit referenced in function main
+src.obj : error LNK2019: unresolved external symbol glfwInit referenced in function main
+src.obj : error LNK2019: unresolved external symbol glfwTerminate referenced in function main
+src.obj : error LNK2019: unresolved external symbol glfwWindowHint referenced in function main
+src.obj : error LNK2019: unresolved external symbol glfwCreateWindow referenced in function main
+src.obj : error LNK2019: unresolved external symbol glfwWindowShouldClose referenced in function main
+src.obj : error LNK2019: unresolved external symbol glfwPollEvents referenced in function main
+src.obj : error LNK2019: unresolved external symbol glfwMakeContextCurrent referenced in function main
+src.obj : error LNK2019: unresolved external symbol glfwSwapBuffers referenced in function main
+C:\Users\Isa\Desktop\GLFW-External-Overlay\Dependencies\lib\glfw3.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\Isa\Desktop\GLFW-External-Overlay\Dependencies\lib\glew32s.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\Isa\Desktop\GLFW-External-Overlay\x64\Debug\GLFWExternalOverlay.exe : fatal error LNK1120: 9 unresolved externals

@@ -1,0 +1,10 @@
+﻿  src.cpp
+C:\Users\Isa\Desktop\GLFW-External-Overlay\GLFWExternalOverlay\src.cpp(264,41): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Isa\Desktop\GLFW-External-Overlay\GLFWExternalOverlay\src.cpp(265,41): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Isa\Desktop\GLFW-External-Overlay\GLFWExternalOverlay\src.cpp(272,41): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Isa\Desktop\GLFW-External-Overlay\GLFWExternalOverlay\src.cpp(273,71): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Isa\Desktop\GLFW-External-Overlay\GLFWExternalOverlay\src.cpp(273,41): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Isa\Desktop\GLFW-External-Overlay\GLFWExternalOverlay\src.cpp(280,41): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Isa\Desktop\GLFW-External-Overlay\GLFWExternalOverlay\src.cpp(281,71): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Isa\Desktop\GLFW-External-Overlay\GLFWExternalOverlay\src.cpp(281,41): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  GLFWExternalOverlay.vcxproj -> C:\Users\Isa\Desktop\GLFW-External-Overlay\Debug\GLFWExternalOverlay.exe
